@@ -7,7 +7,7 @@
   ---
 
   ### Soderzanie:
-  1. ....
+  1. ....eto budu udaljatj
   2.[git add](add.md)
 
 
