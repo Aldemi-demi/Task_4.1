@@ -7,7 +7,7 @@
   ---
 
   ### Soderzanie:
-  1. 4to-to
+  1. ....
   2.[git add](add.md)
 
 
